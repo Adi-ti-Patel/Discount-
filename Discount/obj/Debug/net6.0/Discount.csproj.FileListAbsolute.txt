@@ -1,0 +1,15 @@
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Discount\Discount\bin\Debug\net6.0\Discount.exe
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Discount\Discount\bin\Debug\net6.0\Discount.deps.json
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Discount\Discount\bin\Debug\net6.0\Discount.runtimeconfig.json
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Discount\Discount\bin\Debug\net6.0\Discount.dll
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Discount\Discount\bin\Debug\net6.0\Discount.pdb
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Discount\Discount\obj\Debug\net6.0\Discount.csproj.AssemblyReference.cache
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Discount\Discount\obj\Debug\net6.0\Discount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Discount\Discount\obj\Debug\net6.0\Discount.AssemblyInfoInputs.cache
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Discount\Discount\obj\Debug\net6.0\Discount.AssemblyInfo.cs
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Discount\Discount\obj\Debug\net6.0\Discount.csproj.CoreCompileInputs.cache
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Discount\Discount\obj\Debug\net6.0\Discount.dll
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Discount\Discount\obj\Debug\net6.0\refint\Discount.dll
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Discount\Discount\obj\Debug\net6.0\Discount.pdb
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Discount\Discount\obj\Debug\net6.0\Discount.genruntimeconfig.cache
+C:\Users\Aditi.Patel\source\repos\Net_Core_PreRequisite\Discount\Discount\obj\Debug\net6.0\ref\Discount.dll
